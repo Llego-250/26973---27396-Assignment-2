@@ -1,0 +1,7 @@
+shop/CustomerService.class
+shop/NotificationService.class
+shop/InventoryService.class
+shop/OrderService.class
+shop/ProductService.class
+shop/ShoppingSystem.class
+shop/PaymentService.class
